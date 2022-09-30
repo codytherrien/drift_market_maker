@@ -1,0 +1,12 @@
+build_type: python
+
+market_id: 01
+
+model_config:
+  opening_hedge_pos: 100
+  maker_fee: 0.0002
+  taker_fee: 0.0007
+  warmup: 100
+  warmup_risk: 0.1
+  time_delta: 60
+  order_book_risk_cof: 1.5
